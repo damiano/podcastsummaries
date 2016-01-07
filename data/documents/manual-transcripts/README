@@ -1,0 +1,1 @@
+Use "extract-manual-transcripts.sh" in the "scripts" folder to extract manual transcripts. Note that it requires Java JDK 1.6+ and Maven 2.2+ to work.
