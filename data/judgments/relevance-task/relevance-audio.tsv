@@ -1,0 +1,133 @@
+query_term	rank	type	judgments	majority_voting	JAP
+volcano new zealand 	1	audio_auto	 1 1 1 	1	1
+ebola australia 	5	audio_auto	 2 1 1 1 1 1 	1	0.8333333
+asylum seekers Immigration 	1	audio_auto	 2 1 1 	1	0.6666667
+child sex abuse sydney school 	4	audio_auto	 1 1 1 1 	1	1
+Renewable Energy Target 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+air attack to islamic state 	1	audio_auto	 1 1 1 1 1 1 1 1 1 	1	1
+productivity commission's report childcare system 	1	audio_auto	 2 1 1 	1	0.6666667
+floral tribute martin place 	6	audio_auto	 1 1 1 1 1 1 	1	1
+free trade china australia 	7	audio_auto	 1 1 1 1 1 	1	1
+malcolm fraser died 	3	audio_auto	 1 1 1 1 1 1 1 1 1 	1	1
+australian arrested in bali to be executed 	4	audio_auto	 1 1 1 1 1 	1	1
+aboriginal women died police custody 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+cuba america re-establishing diplomatic relations 	2	audio_auto	 2 1 1 	1	0.6666667
+Royal commission Mangrove Mountain Yoga Ashram 	7	audio_auto	 1 1 1 	1	1
+News Corp Nova Peris leaked email 	3	audio_auto	 2 2 1 	2	0.3333333
+Freedom Ride Perkins 	2	audio_auto	 1 1 1 1 1 	1	1
+Children in immigration detention centers australia 	1	audio_auto	 1 1 1 2 2 2 1 1 1 	1	0.6666667
+Inflamatory deseases university of queensland treatment breakthrough 	2	audio_auto	 1 1 1 1 1 	1	1
+IS extremists Kobane US airstrikes 	2	audio_auto	 1 1 1 1 2 	1	0.8
+Jim Byrnes trade union commision 	1	audio_auto	 1 1 1 1 1 	1	1
+Sex abuse New Sounth Wales ashram 	13	audio_auto	 1 1 1 	1	1
+Tony Abbott offending indigenous people 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+Dog show Crufts controversy 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+Black Saturday AusNet payout 	2	audio_auto	 1 1 1 1 1 1 1 	1	1
+Germanwings Andreas Lubitz 	3	audio_auto	 1 1 1 1 1 1 1 1 1 	1	1
+heart transplant of stopped heart 	1	audio_auto	 1 1 1 1 1 1 	1	1
+ABS accepts recommendations 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+interest rate cuts 	10	audio_auto	 1 1 1 1 2 1 	1	0.8333333
+labour plan to build submarines in australia 	1	audio_auto	 1 1 1 1 1 1 1 	1	1
+nanomaterials excluded in food standards 	10	audio_auto	 1 1 2 1 1 	1	0.8
+financial dealing of west australian minister 	2	audio_auto	 1 1 1 2 3 	1	0.6
+bangkok bombing 	1	audio_auto	 1 2 1 1 	1	0.75
+northern territory chief minister dumped 	3	audio_auto	 1 1 1 	1	1
+hospital bed shortage adelaide 	1	audio_auto	 1 1 1 1 1 1 1 1 1 	1	1
+adelaide fringe festival 	2	audio_auto	 1 1 1 1 1 	1	1
+US police shoot 12 year old boy toy gun 	1	audio_auto	 1 1 1 1 	1	1
+Clive James poetry new book voice Japanese Maple 	1	audio_auto	 1 1 1 	1	1
+royal commission Hutchins child abuse 	5	audio_auto	 1 1 1 1 1 1 	1	1
+pro-democracy protests Hong Kong 	10	audio_auto	 1 1 2 2 1 	1	0.6
+royal commission Hutchins child abuse apology Anglican church 	3	audio_auto	 1 1 1 	1	1
+Kim Jong-un 69th anniversary of the ruling Workers' Party 	1	audio_auto	 1 1 1 1 	1	1
+Israel Palastine tension worship at Al Asqa Jordan diplomat 	1	audio_auto	 1 1 1 1 	1	1
+protest vote against gold company executive pay 	1	audio_auto	 1 1 1 1 	1	1
+trade union royal commission report released Gillard CFMEU 	4	audio_auto	 2 1 1 1 1 1 1 2 1 	1	0.7777778
+volcano new zealand 	1	audio_manual	 1 1 1 	1	1
+ebola australia 	24	audio_manual	 1 1 1 	1	1
+asylum seekers Immigration 	1	audio_manual	 1 1 1 	1	1
+child sex abuse sydney school 	5	audio_manual	 1 1 1 	1	1
+Renewable Energy Target 	1	audio_manual	 1 1 1 	1	1
+air attack to islamic state 	66	audio_manual	 1 1 1 	1	1
+productivity commission's report childcare system 	1	audio_manual	 1 1 1 	1	1
+floral tribute martin place 	3	audio_manual	 1 1 1 	1	1
+free trade china australia 	7	audio_manual	 1 1 1 	1	1
+malcolm fraser died 	1	audio_manual	 1 1 1 	1	1
+australian arrested in bali to be executed 	2	audio_manual	 1 1 1 	1	1
+aboriginal women died police custody 	1	audio_manual	 1 1 1 	1	1
+cuba america re-establishing diplomatic relations 	2	audio_manual	 3 2 1 	3	0.3333333
+Royal commission Mangrove Mountain Yoga Ashram 	7	audio_manual	 1 1 2 	1	0.6666667
+News Corp Nova Peris leaked email 	4	audio_manual	 1 1 1 	1	1
+Freedom Ride Perkins 	2	audio_manual	 1 1 1 	1	1
+Children in immigration detention centers australia 	1	audio_manual	 1 1 1 	1	1
+Inflamatory deseases university of queensland treatment breakthrough 	2	audio_manual	 1 1 1 	1	1
+IS extremists Kobane US airstrikes 	2	audio_manual	 1 1 1 	1	1
+Jim Byrnes trade union commision 	1	audio_manual	 1 1 1 	1	1
+Sex abuse New Sounth Wales ashram 	11	audio_manual	 1 1 1 	1	1
+Tony Abbott offending indigenous people 	1	audio_manual	 1 1 1 	1	1
+Dog show Crufts controversy 	1	audio_manual	 1 1 1 	1	1
+Black Saturday AusNet payout 	2	audio_manual	 1 1 1 	1	1
+Germanwings Andreas Lubitz 	1	audio_manual	 1 1 1 	1	1
+heart transplant of stopped heart 	1	audio_manual	 1 1 1 	1	1
+ABS accepts recommendations 	1	audio_manual	 1 1 1 	1	1
+interest rate cuts 	30	audio_manual	 1 1 1 	1	1
+labour plan to build submarines in australia 	1	audio_manual	 1 1 1 	1	1
+nanomaterials excluded in food standards 	1	audio_manual	 1 1 1 	1	1
+financial dealing of west australian minister 	111	audio_manual	 1 1 1 	1	1
+bangkok bombing 	1	audio_manual	 1 1 1 	1	1
+northern territory chief minister dumped 	2	audio_manual	 1 1 1 	1	1
+hospital bed shortage adelaide 	1	audio_manual	 1 1 1 	1	1
+adelaide fringe festival 	2	audio_manual	 1 1 1 	1	1
+US police shoot 12 year old boy toy gun 	1	audio_manual	 1 1 1 	1	1
+Clive James poetry new book voice Japanese Maple 	1	audio_manual	 1 1 1 	1	1
+royal commission Hutchins child abuse 	5	audio_manual	 1 1 1 	1	1
+pro-democracy protests Hong Kong 	10	audio_manual	 2 1 2 	2	0.3333333
+royal commission Hutchins child abuse apology Anglican church 	3	audio_manual	 1 1 1 	1	1
+Kim Jong-un 69th anniversary of the ruling Workers' Party 	1	audio_manual	 1 1 1 	1	1
+Israel Palastine tension worship at Al Asqa Jordan diplomat 	1	audio_manual	 1 1 1 	1	1
+protest vote against gold company executive pay 	1	audio_manual	 1 1 1 	1	1
+trade union royal commission report released Gillard CFMEU 	4	audio_manual	 1 1 1 	1	1
+volcano new zealand 	1	audio_metadata	 1 1 1 	1	1
+ebola australia 	23	audio_metadata	 1 1 1 	1	1
+asylum seekers Immigration 	3	audio_metadata	 1 1 1 1 	1	1
+child sex abuse sydney school 	5	audio_metadata	 3 1 1 	1	0.6666667
+Renewable Energy Target 	1	audio_metadata	 1 1 1 	1	1
+air attack to islamic state 	184	audio_metadata	 1 1 1 	1	1
+productivity commission's reportÂ childcare system 	1	audio_metadata	 1 1 1 	1	1
+floral tribute martin place 	4	audio_metadata	 1 1 1 	1	1
+free trade china australia 	3	audio_metadata	 1 1 1 	1	1
+malcolm fraser died 	6	audio_metadata	 1 1 1 	1	1
+australian arrested in bali to be executed 	16	audio_metadata	 1 1 1 	1	1
+aboriginal women died police custody 	3	audio_metadata	 1 1 1 	1	1
+cuba americaÂ re-establishing diplomatic relations 	4	audio_metadata	 1 1 1 	1	1
+Royal commission Mangrove Mountain Yoga Ashram 	7	audio_metadata	 1 1 3 	1	0.6666667
+News Corp Nova Peris leaked email 	3	audio_metadata	 1 1 1 	1	1
+Freedom Ride Perkins 	2	audio_metadata	 1 1 1 	1	1
+Children in immigration detention centers australia 	2	audio_metadata	 1 1 1 	1	1
+Inflamatory deseases university of queensland treatment breakthrough 	2	audio_metadata	 2 1 1 	1	0.6666667
+IS extremists Kobane US airstrikes 	2	audio_metadata	 1 1 1 	1	1
+Jim Byrnes trade union commision 	1	audio_metadata	 1 1 1 	1	1
+Sex abuse New Sounth Wales ashram 	14	audio_metadata	 2 1 1 	1	0.6666667
+Tony Abbott offending indigenous people 	1	audio_metadata	 1 1 1 	1	1
+Dog show Crufts controversy 	1	audio_metadata	 1 1 1 	1	1
+Black Saturday AusNet payout 	2	audio_metadata	 1 1 1 	1	1
+Germanwings Andreas Lubitz 	2	audio_metadata	 1 1 1 	1	1
+heart transplant of stopped heart 	1	audio_metadata	 1 1 1 	1	1
+ABS accepts recommendations 	1	audio_metadata	 1 1 1 	1	1
+interest rate cuts 	54	audio_metadata	 2 2 3 	2	0
+labour plan to build submarines in australia 	1	audio_metadata	 2 1 1 	1	0.6666667
+nanomaterials excluded in food standards 	10	audio_metadata	 1 1 1 	1	1
+financial dealing of west australian minister 	40	audio_metadata	 2 2 1 	2	0.3333333
+bangkok bombing 	1	audio_metadata	 1 1 1 	1	1
+northern territory chief minister dumped 	2	audio_metadata	 1 1 1 	1	1
+hospital bed shortage adelaide 	1	audio_metadata	 1 1 3 	1	0.6666667
+adelaide fringe festival 	2	audio_metadata	 1 1 1 	1	1
+US police shoot 12 year old boy toy gun 	1	audio_metadata	 1 1 1 	1	1
+Clive James poetry new book voice Japanese Maple 	1	audio_metadata	 1 1 1 	1	1
+royal commission Hutchins child abuse 	6	audio_metadata	 1 1 1 	1	1
+pro-democracy protests Hong Kong 	7	audio_metadata	 1 1 1 	1	1
+royal commission Hutchins child abuse apology Anglican church 	3	audio_metadata	 1 1 1 	1	1
+Kim Jong-un 69th anniversary of the ruling Workers' Party 	1	audio_metadata	 1 1 1 1 	1	1
+Israel Palastine tension worship at Al Asqa Jordan diplomat 	1	audio_metadata	 1 1 1 	1	1
+protest vote against gold company executive pay 	1	audio_metadata	 1 1 1 	1	1
+trade union royal commission report released Gillard CFMEU 	4	audio_metadata	 2 1 1 	1	0.6666667
