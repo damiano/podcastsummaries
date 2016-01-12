@@ -1,13 +1,15 @@
-# Podcast Summaries
+# [Podcast Summaries](http://damiano.github.io/podcastsummaries/)
 
 This repository contains the dataset used to analyze user preferences of podcast summaries.
+
+
 We provide all the releasable data:
  * Queries
  * Query biased summaries, for both text and audio channels
  * Automatic transcripts
  * Relevance and preference judgments
 
- We also release a software package to download the copyrighted content:
+We also release a software package to download the copyrighted content:
 * Audio podcasts (mp3)
 * Manual transcripts
 
@@ -51,4 +53,4 @@ The repository is organized as follows:
 
 
 
- For more information, please contact [Damiano Spina](http://www.damianospina.com/contact).
+For more information, please contact [Damiano Spina](http://www.damianospina.com/contact).
