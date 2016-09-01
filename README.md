@@ -22,6 +22,7 @@ The repository is organized as follows:
 |   |      +-- manual-transcripts
 |   |      +-- automatic-transcripts.tar.gz
 |   |      +-- documents_urls.tsv
+|   +-- examples
 |   +-- judgments
 |   |      +--preference-task
 |   |      +--relevance-task
@@ -50,6 +51,12 @@ The repository is organized as follows:
 ## Summaries
 ### Text Summaries
 ### Audio Summaries
+
+## Examples
+The 'data/examples' directory include some examples of SERP pages with audio summaries extracted from automatic transcripts. Use [HTML preview]("http://htmlpreview.github.io/") to render the HTML files.
+
+- Example 1: http://htmlpreview.github.io/?https://github.com/damiano/podcastsummaries/blob/master/data/examples/example1.html
+- Example 2: http://htmlpreview.github.io/?https://github.com/damiano/podcastsummaries/blob/master/data/examples/example3.html
 
 
 
