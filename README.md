@@ -41,7 +41,7 @@ Damiano Spina, Johanne R. Trippas, Lawrence Cavedon, Mark Sanderson
 Journal of the Association for Information Science and Technology. To Appear.
 
 ## BibTex
-
+```
 @article{spina_extracting,
 	author = "Spina, Damiano and Trippas, Johanne R. and Cavedon, Lawrence and Sanderson, Mark",
         title = {Extracting Audio Summaries to Support Effective Spoken Document Search},
@@ -49,8 +49,9 @@ Journal of the Association for Information Science and Technology. To Appear.
         year = {To Appear}
 }
 ```
+<!---
 The repository is organized as follows:
-
+```
 .
 +-- data
 |   +-- documents
@@ -71,7 +72,7 @@ The repository is organized as follows:
 +-- scripts
 |   +-- download-audio-podcasts.sh
 |   +-- extract-manual-transcripts.sh
-
+```
 
 ## Documents
 ### Audio Podcasts
@@ -87,7 +88,7 @@ The repository is organized as follows:
 ## Summaries
 ### Text Summaries
 ### Audio Summaries
-```
+-->
 
 ## Examples
 The 'data/examples' directory include some examples of SERP pages with audio summaries extracted from automatic transcripts. Use [HTML preview]("http://htmlpreview.github.io/") to render the HTML files.
