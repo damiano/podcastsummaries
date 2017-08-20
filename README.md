@@ -38,16 +38,23 @@ Please cite the article below if you use this resource in your research:
 
 Damiano Spina, Johanne R. Trippas, Lawrence Cavedon, Mark Sanderson
 [Extracting Audio Summaries to Support Effective Spoken Document Search](http://www.damianospina.com/wp-content/uploads/2016/10/summaries-noisytranscripts-JASIST2016-preprint.pdf)
-Journal of the Association for Information Science and Technology. To Appear.
+Journal of the Association for Information Science and Technology. 2017.
 
 ## BibTex
 ```
-@article{spina_extracting,
-	author = "Spina, Damiano and Trippas, Johanne R. and Cavedon, Lawrence and Sanderson, Mark",
-        title = {Extracting Audio Summaries to Support Effective Spoken Document Search},
-        journal = {Journal of the Association for Information Science and Technology},
-        year = {To Appear}
+@article {spina2017extracting,
+author = {Spina, Damiano and Trippas, Johanne R. and Cavedon, Lawrence and Sanderson, Mark},
+title = {Extracting audio summaries to support effective spoken document search},
+journal = {Journal of the Association for Information Science and Technology},
+volume = {68},
+number = {9},
+issn = {2330-1643},
+url = {http://dx.doi.org/10.1002/asi.23831},
+doi = {10.1002/asi.23831},
+pages = {2101--2115},
+year = {2017}
 }
+
 ```
 <!---
 The repository is organized as follows:
