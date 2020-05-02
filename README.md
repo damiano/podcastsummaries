@@ -41,7 +41,7 @@ Damiano Spina, Johanne R. Trippas, Lawrence Cavedon, Mark Sanderson
 Journal of the Association for Information Science and Technology. 2017.
 
 ## BibTex
-```
+```bibtex
 @article {spina2017extracting,
 author = {Spina, Damiano and Trippas, Johanne R. and Cavedon, Lawrence and Sanderson, Mark},
 title = {Extracting audio summaries to support effective spoken document search},
