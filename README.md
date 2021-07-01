@@ -105,4 +105,4 @@ The 'data/examples' directory include some examples of SERP pages with audio sum
 
 
 
-For more information, please contact [Damiano Spina](http://www.damianospina.com/contact).
+For more information, please contact [Damiano Spina](http://www.damianospina.com/#contact).
