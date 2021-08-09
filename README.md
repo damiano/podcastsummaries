@@ -37,7 +37,7 @@ new test collection which we have made publicly available.
 Please cite the article below if you use this resource in your research:
 
 Damiano Spina, Johanne R. Trippas, Lawrence Cavedon, Mark Sanderson
-[Extracting Audio Summaries to Support Effective Spoken Document Search](http://www.damianospina.com/wp-content/uploads/2016/10/summaries-noisytranscripts-JASIST2016-preprint.pdf)
+[Extracting Audio Summaries to Support Effective Spoken Document Search](https://www.damianospina.com/publication/spina-2017-extracting/)
 Journal of the Association for Information Science and Technology. 2017.
 
 ## BibTex
